@@ -1,0 +1,43 @@
+</head>
+
+<body>
+    
+<div id="header">
+    <div class="standard">
+        <div>
+            <a href="#">Tiendas ATT</a> <a href="#">Cámbiate a AT&T</a>
+        </div>
+    </div>
+</div>
+
+
+<div id="menu">
+    <ul id="mobileMenu">
+	    <li><a href="#">Quiénes Somos</a></li>
+	    <li><a href="#">Planes AT&T Unidos</a></li>
+	    <li><a href="#">Noticias</a></li>
+	    <li><a href="#">Promociones</a></li>
+	    <li><a href="#">Cobertura</a></li>
+	    <li><a href="#">Tiendas</a></li>
+	    <li><a href="#">Contacto</a></li>
+    </ul>
+    <div class="standard">
+        <ul id="mainMenu">
+            <li><a href="/" id="logoDesktop"><img src="/img/att-logo.png" alt="ATT"></a></li>
+            <li><a href="#">Quiénes Somos</a></li><!--
+            --><li><a href="#">Planes AT&T Unidos</a></li><!--
+            --><li><a href="#">Noticias</a></li><!--
+            --><li><a href="#">Promociones</a></li><!--
+            --><li><a href="#">Cobertura</a></li><!--
+            --><li><a href="#">Tiendas</a></li><!--
+            --><li><a href="#">Contacto</a></li>
+        </ul>
+    </div>
+</div>
+
+
+<p id="mainTittle">Equipos</p>
+<div id="mainImage">
+    <p>Equipos</p>
+    <img src="/img/banner-equipos.jpg" alt="Banner">
+</div>
