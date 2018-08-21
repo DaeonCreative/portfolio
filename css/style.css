@@ -1637,8 +1637,8 @@ ul.archive-list li a:hover {
 .services-page-content {
     background: #fff;
     padding: 40px 15px;
-    max-width: 990px;
-    float: right;
+    /*max-width: 990px;
+    float: right;*/
 }
 
 .services-page-content h1,
